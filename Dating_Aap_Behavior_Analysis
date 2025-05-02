@@ -1,0 +1,29 @@
+# Dating App Behavior Analysis
+
+This project explores user behavior on a fictional dating app using synthetic data from a Kaggle notebook. The goal is to uncover behavioral
+patterns and insights that may contribute to match success. This dataset provides a synthetic representation of user behavior on a fictional dating app
+
+## 📊 Summary
+
+- Explored correlations between income, swiping behavior, and match outcomes.
+- Found that higher income users were more active and had more success.
+- Optimistic swipe behavior (swiping right more often) led to higher mutual matches.
+
+## 🔍 Key Findings
+
+- Income and engagement are positively correlated.
+- Swiping patterns affect match success rate.
+- Potential for predictive modeling on user behavior.
+
+## 📌 Next Steps
+
+- Hyperparameter tuning for model accuracy.
+- Behavioral analysis over time (e.g., time-of-day usage).
+- Analyzing effect of interests/hobbies on matches.
+
+## 📁 Files
+
+- dating_app_analysis.ipynb:("C:\Users\Vanshika\Downloads\dating-app-analysis.ipynb").
+- data.csv : ("C:\Users\Vanshika\Downloads\dating_app_behavior_dataset.csv")
+
+The dataset used is synthetic and was sourced from a Kaggle competition. [(https://www.kaggle.com/code/vanshikanausran/dating-app-analysis)]
